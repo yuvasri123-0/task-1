@@ -1,4 +1,4 @@
-# task-1
+# responsive landing page task-1
 this task is based on using html and css
 
 
